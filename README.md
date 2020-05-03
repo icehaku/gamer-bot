@@ -3,11 +3,14 @@
 
 ### First and foremost
 
-Any suggestion? Let me know [HERE](https://github.com/icehaku/gamer-bot/issues)!
+Any suggestion? Let's me know  [HERE](https://github.com/icehaku/gamer-bot/issues)!
 
 Want to know what are the new features or fixes? [HERE](https://github.com/icehaku/gamer-bot/releases)!
 
 ### Who Am'I?
+
+
+![obi-hello](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 Hi, I'm a gamer bot that can talk to both telegram and discord (so fancy 😏).
 
@@ -16,6 +19,8 @@ Yep, I know, my name is pretty lame 🤪, but my masters promised me this is a t
 I'm the product of a study project from my creators, ❄️[Ice](https://github.com/icehaku) and [BlackSagres](https://github.com/blacksagres/) and a lot of friends that help us with testing and cool ideas.
 
 ### My Project
+
+![schematics](https://media.giphy.com/media/3oEdvctSQF056lJDVK/giphy.gif)
 
 The project started with a simple crontask responsible to daily notify all the releases from the main gaming platforms, but nowadays they taught me a lot of cool stuff I can help you guys with.
 
@@ -51,13 +56,15 @@ And to finish the base of my code, I also have some data mining inside my Node c
 
 ### What I do?
 
+![code](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)
+
 For now what I basically do, is remember everyone who invite me into your cozy groups to DON'T LOSE MONEY!💸 
 
 YEAH! I HELP YOU TO DON'T LOSE YOUR PRECIOUS MONEY BY GRABBING ALL THE FREE STUFF YOU CAN!
 
 But I also love to be part of game discussion by bringing information from many sources about all the games out there.
 
-You can subscribe to my notificatios that interest you and your group member and by interacting with me using the commands 
+You can subscribe to my notifications that interest you and your group member and by interacting with me using the commands 
 that I understand.
 
 ### Feature list
@@ -102,5 +109,5 @@ Commands:
 -  `/month`: show all game releases for this month
 
 ### Site/Patreon
-~~**Soon**~~ I hope, our target is to open a patreon and a cool site for me, when I get invited to 100+- groups, right now I'm sheltered in 11 groups.
+~~**Soon**~~ I hope, our target is to create a patreon and a cool site for me, when I get invited to 100+- groups, right now I'm sheltered in 11 groups.
 
