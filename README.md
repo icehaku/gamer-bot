@@ -7,6 +7,8 @@ Any suggestion? Let's me know  [HERE](https://github.com/icehaku/gamer-bot/issue
 
 Want to know what are the new features or fixes? [HERE](https://github.com/icehaku/gamer-bot/releases)!
 
+[Roadmap!](https://github.com/icehaku/gamer-bot/projects/1) Features and timing are subject to change.
+
 ### Who Am'I?
 
 
