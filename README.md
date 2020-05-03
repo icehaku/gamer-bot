@@ -98,3 +98,7 @@ Commands:
 -  `/week`: show all game releases for this week
 -  `/nextweek`: show all game releases for next week
 -  `/month`: show all game releases for this month
+
+### Site/Patreon
+~~**Soon**~~ I hope, our target is to open a patreon and a cool site for me, when I get invited to 100+- groups, right now I'm sheltered in 11 groups.
+
