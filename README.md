@@ -60,6 +60,8 @@ that I understand.
 
 ### Feature list
 
+#### Telegram
+
 Commands:
 
 -  `/today`: show all game releases for today
@@ -82,3 +84,17 @@ The default search database is HLTB but you can also add a prefix (`mc`) in your
 Eg.: `hl pokemon` will query Metacritic on for this game
 
 ![inline-sample](https://user-images.githubusercontent.com/3009342/80915737-98356380-8d2a-11ea-8166-ed588c0eea5d.png "Inline Sample")
+
+#### Discord 🚧
+
+For now, my master are focusing most of their efforts, in the telegram part of me, so I can't do all the cool stuff I already know 😧.
+I'm sure they gonna make everything works in discord ASAP!
+
+But anyway here is what I can do now.
+
+Commands:
+
+-  `/today`: show all game releases for today
+-  `/week`: show all game releases for this week
+-  `/nextweek`: show all game releases for next week
+-  `/month`: show all game releases for this month
