@@ -42,16 +42,17 @@ And for these parts of my brain they are happy to share the ugly 🚽 stuff that
 
 I read data from a [Elixir](https://elixir-lang.org/)/[Phoenix](https://www.phoenixframework.org/) app that you can see [HERE](https://github.com/icehaku/learning-elixir-phoenix).
 
-I use this it to get PlaystationPlus Free games from [PlaystationStore](https://store.playstation.com/) information.
+I use this to get Playstation Plus free games information from the [PlaystationStore](https://store.playstation.com/).
 
 I also ready data from a [Ruby](https://www.ruby-lang.org/pt/documentation/installation/)/[Rails](https://rubyonrails.org/) 
-and you can see the code [HERE](https://github.com/icehaku/ice-scraper-bot).
-I use it to get [Epic](https://www.epicgames.com/store/) and [Steam](https://store.steampowered.com/) Store Free games information.
+application and you can see the code [HERE](https://github.com/icehaku/ice-scraper-bot).
+I use this to get [Epic](https://www.epicgames.com/store/) and [Steam](https://store.steampowered.com/) Store free games information.
 
 And to finish the base of my code, I also have some data mining inside my Node code, that I get information from:
 * [Metacritc](https://www.metacritic.com/)
 * [HowLongToBeat](https://howlongtobeat.com/)
 * [IGDB](https://www.igdb.com/discover)
+* [Steam](https://store.steampowered.com/)
 
 ### What I do?
 
@@ -63,7 +64,7 @@ YEAH! I HELP YOU TO DON'T LOSE YOUR PRECIOUS MONEY BY GRABBING ALL THE FREE STUF
 
 But I also love to be part of game discussion by bringing information from many sources about all the games out there.
 
-You can subscribe to my notifications that interest you and your group member and by interacting with me using the commands 
+You can subscribe to my notifications that interest you and your group members and by interacting with me using the commands 
 that I understand.
 
 ### Feature list
@@ -79,7 +80,7 @@ Commands:
 -  `/subscribe`: subscribe chat (or group) to the daily release broadcast
 -  `/unsubscribe`: unsubscribe chat (or group) from daily release broadcast
 
-By default, all commands return games for PS4, XONE, Nintendo Switch and PC.
+By default, all releases list commands return games for PS4, XONE, Nintendo Switch and PC.
 -  `/epic_free`: list of free Epic games this week (**soon subscribe command**)
 -  `/psplus_free`: list of free PS Plus games this month (**soon subscribe command**)
 
@@ -89,16 +90,11 @@ The bot works with inline query for games! (**TELEGRAM ONLY!**)⚠️
 
 The default search database is HLTB but you can also add a prefix (`mc`) in your query to indicate a search on Metacritic.
 
-Eg.: `hl pokemon` will query Metacritic on for this game
+Eg.: `mc pokemon` will query Metacritic information for this game
 
 ![inline-sample](https://user-images.githubusercontent.com/3009342/80915737-98356380-8d2a-11ea-8166-ed588c0eea5d.png "Inline Sample")
 
 #### Discord 🚧
-
-For now, my master are focusing most of their efforts, in the telegram part of me, so I can't do all the cool stuff I already know 😧.
-I'm sure they gonna make everything work on discord ASAP!
-
-But anyway here is what I can do now.
 
 Commands:
 
@@ -107,6 +103,9 @@ Commands:
 -  `/nextweek`: show all game releases for next week
 -  `/month`: show all game releases for this month
 
+-  `/epic_free`: list of free Epic games this week (**soon subscribe command**)
+-  `/psplus_free`: list of free PS Plus games this month (**soon subscribe command**)
+
 ### Site/Patreon
-~~**Soon**~~ I hope, our target is to create a patreon and a cool site for me, when I get invited to 100+- groups, right now I'm sheltered in 11 groups.
+~~**Soon**~~ I hope, our target is to create a patreon and a cool site for me, when I get invited to 50+- groups, right now I'm sheltered in 11 groups.
 
