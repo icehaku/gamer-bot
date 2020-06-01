@@ -1,5 +1,5 @@
 
-## gamer-bot
+## GenY-bot
 
 ### First and foremost
 
@@ -11,12 +11,9 @@ Want to know what are the new features or fixes? [HERE](https://github.com/iceha
 
 ### Who Am'I?
 
+![geny-bot](https://user-images.githubusercontent.com/3009342/83418837-98448400-a3fa-11ea-9cf1-8113198e5b3d.png)
 
-![obi-hello](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
-
-Hi, I'm a gamer bot that can talk to both telegram and discord (so fancy 😏).
-
-Yep, I know, my name is pretty lame 🤪, but my masters promised me this is a temporary nickname until we change to a better one someday.
+Hi, I'm GenY Bot and I can talk wit both telegram and discord groups. (so fancy 😏).
 
 I'm the product of a study project from my creators, ❄️[Ice](https://github.com/icehaku) and [BlackSagres](https://github.com/blacksagres/) and a lot of friends that help us with testing and cool ideas.
 
