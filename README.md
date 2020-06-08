@@ -9,6 +9,12 @@ Want to know what are the new features or fixes? [HERE](https://github.com/iceha
 
 [Roadmap!](https://github.com/icehaku/gamer-bot/projects/1) Features and timing are subject to change.
 
+[Click here](https://discord.com/oauth2/authorize?client_id=625384632942067743&scope=bot&permissions=2048) to invite me to your discord group!
+
+Invite **Gen_Y_Bot** to you telegram group.
+
+![image](https://user-images.githubusercontent.com/3009342/84030459-78690f00-a96a-11ea-99d1-ac57d4b53b08.png)
+
 ### Who Am'I?
 
 ![geny-bot](https://user-images.githubusercontent.com/3009342/83418837-98448400-a3fa-11ea-9cf1-8113198e5b3d.png)
