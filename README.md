@@ -98,7 +98,7 @@ The default search database is HLTB but you can also add a prefix (`mc`) in your
 
 Eg.: `mc pokemon` will query Metacritic information for this game
 
-![inline-sample](https://user-images.githubusercontent.com/3009342/80915737-98356380-8d2a-11ea-8166-ed588c0eea5d.png "Inline Sample")
+![inline-sample](https://user-images.githubusercontent.com/3009342/84031041-5f149280-a96b-11ea-8524-4160b35d71c8.png "Inline Sample")
 
 #### Discord 🚧
 
